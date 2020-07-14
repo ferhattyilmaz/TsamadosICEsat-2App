@@ -1,4 +1,4 @@
-# Thoughts on ICEsat-2 for cloud detection trianing
+# Thoughts on ICEsat-2 data for cloud detection training
 
 
 ## Why this project?
