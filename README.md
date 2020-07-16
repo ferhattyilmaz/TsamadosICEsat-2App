@@ -40,5 +40,6 @@ With the exception of icepyx (which is quite specific to this project and I hope
 
 <a name="7">7</a> https://www.rc.ucl.ac.uk/docs/Clusters/Myriad/#tensorflow
 
-<a name="n">*</a>: I found this as a very useful introduction to the datasets and the functions of ICEsat-2 https://www.youtube.com/watch?v=0guml7ihfdA
+<a name="n">I</a>: I found this as a very useful introduction to the datasets and the functions of ICEsat-2 https://www.youtube.com/watch?v=0guml7ihfdA
 
+<a name="n">II</a>: Excellent demonstration by the Data lead at NSIDC on how to use/obtain data https://www.youtube.com/watch?v=6KZOPqyp-bY
